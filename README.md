@@ -13,7 +13,7 @@ Oauth is handled using Passport.js. Materialize CSS is used for stylings.
 
 ## Installation 
 
-Clone done this repo and run npm install, or alternatively visit https://shielded-temple-48199.herokuapp.com/ to the production
+Clone down this repo and run npm install, or alternatively visit https://shielded-temple-48199.herokuapp.com/ to the production
 deployment.
 
 
