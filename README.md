@@ -13,9 +13,9 @@ Oauth is handled using Passport.js. Materialize CSS is used for stylings.
 
 ## Installation 
 
-Clone down this repo and run npm install, or alternatively visit https://shielded-temple-48199.herokuapp.com/ to the production
-deployment.
+Clone down this repo and run npm install, or alternatively visit https://shielded-temple-48199.herokuapp.com/ to the production deployment.
 
+In order to load up on credits and be permitted to create new surveys use `4242 4242 4242 4242` as the credit card number and then any future date and and 3-digit code for the remaining fields and you should be able to "purchase" credits
 
 
 ### Dashboard 
