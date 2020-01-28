@@ -32,3 +32,14 @@ In order to load up on credits and be permitted to create new surveys use `4242 
 
 
 <img width="729" alt="Screen Shot 2020-01-25 at 8 53 34 AM" src="https://user-images.githubusercontent.com/27719824/73123749-92bcc600-3f50-11ea-93f9-279003040ac3.png">
+
+### Survey Review 
+
+<img width="729" alt="Screen Shot 2020-01-25 at 8 54 08 AM" src="https://user-images.githubusercontent.com/27719824/73265387-1e716500-4192-11ea-877b-b8a61ca47e90.png">
+
+### Email Received 
+
+<img width="1022" alt="Screen Shot 2020-01-25 at 8 54 45 AM" src="https://user-images.githubusercontent.com/27719824/73265456-3f39ba80-4192-11ea-80f9-13586b8beff5.png">
+
+
+<img width="1022" alt="Screen Shot 2020-01-25 at 8 54 59 AM" src="https://user-images.githubusercontent.com/27719824/73265492-4d87d680-4192-11ea-8369-590dc5a02226.png">
