@@ -14,3 +14,8 @@ type Survey {
   dateSent: Date!
   lastResponded: Date
 }
+
+type Recipient {
+  email: String!
+  responded: Boolean
+}
