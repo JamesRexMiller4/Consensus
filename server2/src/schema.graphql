@@ -1,9 +1,11 @@
 type User {
+  id: ID! @id
   googleID: String!
   credits: Number
 }
 
 type Survey {
+  id: ID! @id
   title: String!
   subject: String!
   body: String!
@@ -15,7 +17,7 @@ type Survey {
   lastResponded: Date
 }
 
-type Recipient {
+type Recipient @embedded {
   email: String!
   responded: Boolean
 }
