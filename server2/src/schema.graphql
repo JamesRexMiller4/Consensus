@@ -1,0 +1,4 @@
+type User {
+  googleID: String,
+  credits: Number
+}
