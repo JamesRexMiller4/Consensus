@@ -1,4 +1,16 @@
 type User {
-  googleID: String,
+  googleID: String!
   credits: Number
+}
+
+type Survey {
+  title: String!
+  subject: String!
+  body: String!
+  recipients: [Recipient!]!
+  yes: Number
+  no: Number
+  _user: User!
+  dateSent: Date!
+  lastResponded: Date
 }
