@@ -1,0 +1,26 @@
+type User @db(name: "users") {
+  _id: ID! @id
+  credits: Int
+  googleID: String
+  v: Int @db(name: "__v")
+}
+
+type Survey @db(name: "surveys") {
+  _id: ID! @id
+  body: String
+  dateSent: DateTime
+  lastResponded: DateTime
+  no: Int
+  recipients: [SurveyRecipient]
+  subject: String
+  title: String
+  user: User @db(name: "_user") @relation(link: INLINE)
+  v: Int @db(name: "__v")
+  yes: Int
+}
+
+type SurveyRecipient @embedded {
+  _id: ID! @id
+  email: String
+  responded: Boolean
+}
