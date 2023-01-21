@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^1.21.8"
+    "@graphql-codegen/cli": "^2.16.4"
   }
 }
